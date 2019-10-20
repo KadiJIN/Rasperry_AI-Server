@@ -8,6 +8,6 @@
 目前来看，Resbian不是我想要的OS,占用内存有点高，影响性能。
 ## 操作系统
 选择哪一种操作系统来运行人工智能服务？
-## AI API
+## Tensorflow API
 Tensorflow 提供了针对嵌入式系统的API——TensorFlow Lite interpreter，同时也提供了只包含Tensorflow Lite runtime的包。因此我们可以不用下载整个TF库来运行人工智能模型。  
 参考网站：[Python quickstrat](https://www.tensorflow.org/lite/guide/python)
