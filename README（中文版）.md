@@ -7,7 +7,8 @@
 + Rasperry Pi 3 Model B [数据手册](https://www.raspberrypi.org/products/raspberry-pi-3-model-b/)
 ## 树莓派
 树莓派官网有新手教程。推荐的OS-Resbian 适合新手，有基础的图形界面，命令行，蓝牙无线驱动，python。完整版有各种适合新手的IDE，也可以选择不装。
-目前来看，Resbian不是我想要的OS,占用内存有点高，影响性能。
+目前来看，Resbian不是我想要的OS,占用内存有点高，影响性能。  
+[树莓派初始化教程](https://projects.raspberrypi.org/en/projects/raspberry-pi-setting-up)
 ## 操作系统
 选择哪一种操作系统来运行人工智能服务？
 ## Tensorflow API
